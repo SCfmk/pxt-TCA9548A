@@ -1,0 +1,16 @@
+{
+  "name": "pxt-tca9548a",
+  "version": "0.0.1",
+  "description": "TCA9548A I2C multiplexer for BBC micro:bit (MakeCode)",
+  "license": "MIT",
+  "dependencies": {
+  "core": "*"
+  },
+  "files": [
+  "tca9548a.ts"
+  ],
+  "testFiles": [
+  "test.ts"
+  ],
+  "public": true
+}
